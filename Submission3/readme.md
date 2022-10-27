@@ -5,7 +5,6 @@ https://youtu.be/bWF7G1anxGQ
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: [CSE424_Task3.pdf](https://github.com/thDhrubo/CSE424/files/9881970/CSE424.pdf)
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://lucid.app/lucidchart/5bb7ba8f-a097-434c-a33e-57f43967f930/edit?viewport_loc=-216%2C9%2C2909%2C1513%2C0_0&invitationId=inv_35b6995d-bc0f-490e-ad53-d7a0290c9ae6
 
