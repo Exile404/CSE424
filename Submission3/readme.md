@@ -1,7 +1,7 @@
 # CSE424 Task3 #
 
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/bWF7G1anxGQ
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: [CSE424_Task3.pdf](https://github.com/thDhrubo/CSE424/files/9881970/CSE424.pdf)
