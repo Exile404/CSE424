@@ -4,7 +4,7 @@ Unlisted youtube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easychair.org/conferences/submitted?a=30089500;submission=6332802;track=296258
+https://easychair.org/conferences/submitted?a=30095764;submission=6334097;track=296258
 
 Paper title:
 Sentiment Prediction BERT Stopword Lemmatizer
@@ -13,10 +13,10 @@ Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-21 December 2022
+23 December 2022
 
 Paper submission ID: (received) from conference/workshop
-3710
+5808
 
 Conference Name:
 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2023, Santa Fe, New Mexico)
